@@ -1,0 +1,15 @@
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.csprojAssemblyReference.cache
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.AssemblyInfoInputs.cache
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.AssemblyInfo.cs
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.csproj.CoreCompileInputs.cache
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/bin/Debug/net5.0/Challenge 1.deps.json
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/bin/Debug/net5.0/Challenge 1.runtimeconfig.json
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/bin/Debug/net5.0/Challenge 1.runtimeconfig.dev.json
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/bin/Debug/net5.0/Challenge 1.dll
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/bin/Debug/net5.0/ref/Challenge 1.dll
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/bin/Debug/net5.0/Challenge 1.pdb
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.dll
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/ref/Challenge 1.dll
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.pdb
+/Users/joyambrose/OneDrive - Swinburne University/IntroProg/Challenge 1/obj/Debug/net5.0/Challenge 1.genruntimeconfig.cache
